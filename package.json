@@ -1,0 +1,25 @@
+{
+  "name": "accel_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies" : {
+    "vue" : ">0.0.1",
+    "socketio" : ">0.0.1",
+    "bootstrap" : ">0.0.1",
+    "babel-cli" : ">0.0.1",
+    "browserify" : ">0.0.1",
+    "watchify" : ">0.0.1",
+    "babelify" : ">0.0.1",
+    "bufferutil" : ">0.0.1",
+    "smoothie" : ">0.0.1",
+    "chart" : ">0.0.1",
+    "utf-8-validate" : ">0.0.1",
+    "express" : ">0.0.1"
+  }
+}
